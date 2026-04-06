@@ -39,7 +39,7 @@ The lab is segmented into an isolated internal network (`192.168.56.0/24`) with 
 
 ### Architecture Diagram
 
-![[image-16.png]]
+![[Homelab/image-16.png]]
 
 ### Traffic Flow
 
